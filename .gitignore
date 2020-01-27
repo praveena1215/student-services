@@ -1,0 +1,15 @@
+.project
+.classpath
+code-*
+target/sure*
+target/maven*
+org*
+pom.prop*
+target/generated*
+target/classes/*
+target/test*
+*.class
+*/target/*
+/target/
+.settings
+student-services-amcic.log
